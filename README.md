@@ -6,7 +6,7 @@ You can also call me Martin. (As you want or as you wish)
 * Physics at UCL as undergrad
 
 ### 💬 Ask me about 
-* Undergrad Physics
+* Undergrad Physics (Including ![IB](https://ibo.org/) courses)
   
 ### 📫 How to reach me:
 * Email
