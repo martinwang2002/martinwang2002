@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hi there, I'm Yizhen Wang 👋
+
+You can also call me Martin. (As you want or as you wish)
+
+### 🌱 I’m currently learning
+* Physics at UCL as undergrad
+
+### 💬 Ask me about 
+* Undergrad Physics
+  
+### 📫 How to reach me:
+* Email
+
+### Avatar?
+> This is from チャイ https://www.pixiv.net/artworks/83676042
 
 <!--
 **martinwang2002/martinwang2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
