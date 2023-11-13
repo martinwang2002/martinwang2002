@@ -3,7 +3,10 @@
 You can also call me Martin. (As you want or as you wish)
 
 ### 🌱 I’m currently learning
-* Physics at UCL as undergrad
+* MPhil in Data Intensive Science
+
+### 🎓 I have learned
+* BSc Physics at UCL
 
 ### 💬 Ask me about 
 * Undergrad Physics
