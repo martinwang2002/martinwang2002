@@ -3,9 +3,10 @@
 You can also call me Martin. (As you want or as you wish)
 
 ### 🌱 I’m currently learning
-* MPhil in Data Intensive Science
+* A secret for now~
 
 ### 🎓 I have learned
+* MPhil in Data Intensive Science at cam.
 * BSc Physics at UCL
 
 ### 💬 Ask me about 
